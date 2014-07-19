@@ -95,5 +95,5 @@ To https://github.com/vannorden/test-repo.git
    5a236b8..99c141c  master -> master
 
 ##
-[Link to a tutorial](http://www.dataschool.io/git-quick-reference-for-beginners)
-##
+[LINK TO A WRITTEN TUTORIAL](http://www.dataschool.io/git-quick-reference-for-beginners)
+[LINK TO A TUTORIAL ON YT](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
