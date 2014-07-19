@@ -1,4 +1,4 @@
 test-repo
 =========
 
-My first repo
+We, who are, not as others. Test repo.
