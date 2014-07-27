@@ -97,3 +97,9 @@ To https://github.com/vannorden/test-repo.git
 ##
 [LINK TO A WRITTEN TUTORIAL](http://www.dataschool.io/git-quick-reference-for-beginners)
 [LINK TO A TUTORIAL ON YT](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+
+##this is secondary heading
+### this is tertiary heading
+
+* bullet1
+* bullet2 etc.
